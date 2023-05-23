@@ -1,0 +1,4 @@
+.git
+.github
+README.md
+# please leave a blank line at the end

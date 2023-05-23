@@ -1,5 +1,6 @@
 /src/public/
 /src/dist/
+/src/app
 
 # Created by https://www.gitignore.io/api/linux,node,vim,macos,windows,visualstudiocode,sublimetext
 
